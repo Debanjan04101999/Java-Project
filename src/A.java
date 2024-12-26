@@ -7,6 +7,8 @@ public class A {
 		
 		System.out.println("Ghosh");
 		
+		System.out.println("Dostidar");
+		
 
 	}
 
