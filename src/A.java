@@ -9,6 +9,8 @@ public class A {
 		
 		System.out.println("Dostidar");
 		
+		System.out.println("India");
+		
 
 	}
 
